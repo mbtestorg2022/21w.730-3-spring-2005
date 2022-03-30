@@ -6,6 +6,7 @@ description: This file asks students to write their second essay for which they 
   of the article.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-3-writing-and-the-environment-spring-2005/577127a68a146aa4768b39da61fe77e3_spr2005_ex_2b.pdf
 file_type: application/pdf
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: spr2005_ex_2b.pdf
 uid: 577127a6-8a14-6aa4-768b-39da61fe77e3

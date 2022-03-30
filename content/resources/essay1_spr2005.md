@@ -5,6 +5,7 @@ description: This file contains assignments which asks students that their first
   world should plays a prominent role.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-3-writing-and-the-environment-spring-2005/b0f19dc8463c59ec46683f542ac608e3_essay1_spr2005.pdf
 file_type: application/pdf
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: essay1_spr2005.pdf
 uid: b0f19dc8-463c-59ec-4668-3f542ac608e3

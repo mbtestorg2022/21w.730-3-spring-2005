@@ -7,6 +7,7 @@ description: This file asks students to repeat each of the tasks described in th
   and finally an annotated outline of the essay.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-3-writing-and-the-environment-spring-2005/7f7a4b9ff144e35362eef18b3750e86d_spr2005_ex_3c.pdf
 file_type: application/pdf
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: spr2005_ex_3c.pdf
 uid: 7f7a4b9f-f144-e353-62ee-f18b3750e86d

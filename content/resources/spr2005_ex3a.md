@@ -6,6 +6,7 @@ description: This file asks students to write two paragraphs, the first of which
   difficulties encountered.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-3-writing-and-the-environment-spring-2005/f857499140c4e9f7c187d010091b4dcf_spr2005_ex3a.pdf
 file_type: application/pdf
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: spr2005_ex3a.pdf
 uid: f8574991-40c4-e9f7-c187-d010091b4dcf

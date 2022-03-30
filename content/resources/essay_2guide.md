@@ -11,6 +11,7 @@ description: In this file students are asked to read carefully the two (or three
   are expected to write is not a "compare and contrast" essay.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-3-writing-and-the-environment-spring-2005/c5ebfe36590fc7909955484cd3a7ed55_essay_2guide.pdf
 file_type: application/pdf
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: essay_2guide.pdf
 uid: c5ebfe36-590f-c790-9955-484cd3a7ed55
